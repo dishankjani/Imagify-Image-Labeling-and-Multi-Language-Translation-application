@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "732759601437",
+    "project_id": "imagify-50069",
+    "storage_bucket": "imagify-50069.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732759601437:android:4fb0e01a7b32944c3e71f4",
+        "android_client_info": {
+          "package_name": "com.example.imagify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732759601437-ooe3hjcter0atcmehd9uj4fr413su4g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPRCHBoWcw9vVXxyIznRxhj3Gv9aGsfBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732759601437-ooe3hjcter0atcmehd9uj4fr413su4g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
